@@ -7,3 +7,8 @@ algorithms, including convolutional neural networks and artificial neural networ
 imbalances through preprocessing methods like random selection and oversampling.
 
 Dataset Link: https://www.kaggle.com/datasets/gpiosenka/100-bird-species
+
+Other Contributor:
+Ömer Tuğrul
+https://github.com/omer38
+

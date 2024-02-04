@@ -1,9 +1,9 @@
 # Bird-Image-Classification
-This machine-learning project classifies breast cancer as benign or malignant without using any ML
-libraries. The project utilizes a dataset with 569 patient cases and 30 features related to breast cancer. We
-conducted many steps, including loading and preprocessing the dataset, conducting exploratory data
-analysis, implementing and evaluating a logistic regression model with and without k-fold cross-validation,
-implementing a multi-layer perceptron algorithm, implementing a random forest algorithm, followed by a
-comparison of these models to determine the optimal algorithm.
+This group project focuses on image classification of bird species using the images of 525 bird species,
+including a large collection of high-quality images. The primary objective was to develop models capable of
+identifying different bird species, which could aid in protecting areas with endangered and endemic species.
+We used machine learning techniques like random forest, support vector machine, PCA, and deep learning
+algorithms, including convolutional neural networks and artificial neural networks, addressing dataset
+imbalances through preprocessing methods like random selection and oversampling.
 
-Dataset Link: https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset/data
+Dataset Link: https://www.kaggle.com/datasets/gpiosenka/100-bird-species
